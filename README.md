@@ -1,7 +1,7 @@
-#Guia de Instalação do Projeto
+# Guia de Instalação do Projeto
 Siga os passos abaixo para configurar o ambiente de desenvolvimento e instalar todas as dependências do projeto.
 
-#Pré-requisitos
+# Pré-requisitos
 Certifique-se de que você tem o Python 3.8 ou uma versão superior instalada em sua máquina.
 
 1. Criar e Ativar o Ambiente Virtual
