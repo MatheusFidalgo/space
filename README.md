@@ -19,7 +19,7 @@ venv\Scripts\activate
 
 source venv/bin/activate
 
-## Você saberá que o ambiente está ativado quando vir (venv) no início da linha de comando do seu terminal.
+### Você saberá que o ambiente está ativado quando vir (venv) no início da linha de comando do seu terminal.
 
 ## 2. Instalar as Dependências
 Com o ambiente virtual ativado, instale todas as dependências do projeto listadas no arquivo requirements.txt:
@@ -34,4 +34,4 @@ Exemplo do arquivo .env:
 SECRET_KEY='sua_secret_key_aqui'
 DEBUG=True
 
-## Importante: Não compartilhe seu arquivo .env publicamente. Adicione-o ao seu arquivo .gitignore para evitar que ele seja enviado para repositórios como o Git.
+### Importante: Não compartilhe seu arquivo .env publicamente. Adicione-o ao seu arquivo .gitignore para evitar que ele seja enviado para repositórios como o Git.
